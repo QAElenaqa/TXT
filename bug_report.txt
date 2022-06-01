@@ -1,1 +1,15 @@
+Bug ID: 1
+Title: Pop-up window does not dissapear until the date is not changed
+Priority: Low
+Severity:Blocked
+Enviroment: Google Chrome
+STR: 
+1. Select any dish
+2. Go to the busket
+3. Select a date next to the last delivery date in the menu (ex, menu 8-11 Jun, select 15 Jun)
+4. After the pop-up "Delivery up to 14.06" appears click on the "Change a date" button
+5. Look at the pop-up
+
+AR: The pop-up remains until the date is not changed to the suitable one
+ER: The pop-up "Delivery up to 14.06" does not appear
 
