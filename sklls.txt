@@ -1,0 +1,8 @@
+Terpminal
+GitHub
+Postman
+Android Studio
+Fiddler
+Charles Proxy
+Jmeter
+SQL
